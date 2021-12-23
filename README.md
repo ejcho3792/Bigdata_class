@@ -9,3 +9,6 @@
     * [조건문과 반복문](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_2.py)
     * [사용자 정의 함수](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_3.py)
     * [Numpy](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_4.py)
+    * [문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211216_1.py)
+    * [Pandas DataFrame, Series](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_1.py)
+    * [Pandas 문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_2.py)
