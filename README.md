@@ -4,5 +4,6 @@
 
 1. Python 기초
 
-    * [변수와 리스트]()
+    * [변수와 리스트](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211214.py)
+    
     *
