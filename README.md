@@ -24,3 +24,4 @@
     * [산술연산자](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211222_2.R)
     * [할당](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211222_3.R)
     * [데이터 타입](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211222_4.R)
+    
