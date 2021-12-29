@@ -4,14 +4,15 @@
 
 1. Python 기초
 
-    * [변수와 리스트](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211214.py)
+    * [1. 변수와 리스트](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211214.py)
     * [문자열 처리](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_1.py)
     * [조건문과 반복문](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_2.py)
     * [사용자 정의 함수](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_3.py)
-    * [Numpy](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_4.py)
-    * [문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211216_1.py)
-    * [Pandas DataFrame, Series](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_1.py)
-    * [Pandas 문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_2.py)
+    * [5. Numpy](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211215_4.py)
+    * [6. 문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211216_1.py)
+    * [7. Pandas DataFrame, Series](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_1.py)
+    * [8. Pandas 문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_2.py)
+    * [10. sort](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211224_1.py)
     * [12.groupby](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211227_1.py)
     * [13.merge](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211227_2.py)
     * [14.drop, shift, rename](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211228_1.py)
