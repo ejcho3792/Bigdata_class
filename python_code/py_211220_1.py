@@ -1,4 +1,6 @@
-# 07. Pandas _ Series, DataFrame 
+##################################
+# 07. Pandas _ Series, DataFrame #
+##################################
 
 import numpy as np
 import pandas as pd 

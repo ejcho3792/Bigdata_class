@@ -12,6 +12,14 @@
     * [문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211216_1.py)
     * [Pandas DataFrame, Series](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_1.py)
     * [Pandas 문자열 메소드](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211220_2.py)
+    * [12.groupby](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211227_1.py)
+    * [13.merge](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211227_2.py)
+    * [14.drop, shift, rename](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211228_1.py)
+    * [15.stack, unstack, pivot_table](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211228_2.py)
+    * [16.dropna](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211228_3.py)
+    * [17.datetime](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211229_1.py)
+    * [18.visualization](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211229_2.py)
+    * [19.pandas_exercise](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211229_3.py)
 
 2. R 기초
     * [벡터](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211220_1.R)
@@ -25,3 +33,4 @@
     * [할당](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211222_3.R)
     * [데이터 타입](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211222_4.R)
     
+3. 수학
