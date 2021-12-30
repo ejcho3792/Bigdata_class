@@ -1,4 +1,4 @@
-# 빅데이터 기반 지능형 서비스 개발 (2021.12.14 ~ 2022.05.06)
+9999999999999999999999999999999900000000000000000000000000000000000000000000000# 빅데이터 기반 지능형 서비스 개발 (2021.12.14 ~ 2022.05.06)
 
 ### 수업 내용 기록
 
@@ -23,6 +23,8 @@
     * [17.datetime](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211229_1.py)
     * [18.visualization](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211229_2.py)
     * [19.pandas_exercise](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211229_3.py)
+
+    * [21.preprocessing](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211230_1.py)
 
 2. R 기초
     * [벡터](https://github.com/ejcho3792/Bigdata_class/blob/master/r_code/r_211220_1.R)
