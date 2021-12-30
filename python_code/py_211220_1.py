@@ -5,13 +5,10 @@
 import numpy as np
 import pandas as pd 
 from pandas import Series, DataFrame
-
 # pandas : 2차원 정형데이터(테이블, 표, 데이터프레임)
-
 # 기본단위 : Series
 # - 1차원 자료 구조 
 # - 하나의 데이터 타입 허용
-
 Series([1,2,3,4])
 s1 = Series([1,2,3,4])
 s2 = Series([1,2,3,'4'])
@@ -30,7 +27,6 @@ s1[[0,3]]        # 차원 축소 x (Series로 반환)
 # 0    1
 # 3    4
 # dtype: int64
-
 
 s3['a']
 s3[['a','c']]
@@ -132,7 +128,6 @@ d3
 d3.iloc[:,0]
 d3.iloc[:,0:3]
 d3.iloc[:,[0,-1]]
-
 d3.loc[:,['col1','col3']]
 
 # 조건색인 처리 
