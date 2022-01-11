@@ -27,6 +27,7 @@
     * [21.preprocessing](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_211230_1.py)
     * [22.scaling](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_220106_2.py)
     * [23.decomposition](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_220106_3.py)
+    * [99.fishing exercise](https://github.com/ejcho3792/Bigdata_class/blob/master/python_code/py_fishing.py)
 
 
 2. R 기초
