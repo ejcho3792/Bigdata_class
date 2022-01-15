@@ -1,3 +1,9 @@
 .idea
+.idea/*.xml
+*.iml
+out
+gen
+build
+rebel.xml
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
